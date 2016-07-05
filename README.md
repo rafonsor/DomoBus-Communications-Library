@@ -15,4 +15,6 @@ configuration file to properly operate within the network, therefore a generic
 configuration file is left inside the sources folder.
 
 
-More information about DomoBus and its components see: http://www.domobus.net/.
+This project is based upon the currently available DomoBus specifications and documentation, but is however unaffiliated with the DomoBus technology.
+
+For more information about DomoBus and its components see: http://www.domobus.net/.
