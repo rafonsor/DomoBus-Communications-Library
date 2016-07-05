@@ -12,7 +12,7 @@ A basic Supervisor implementing the library's API calls is also provided,
 it includes a CLI and allows for manual introduction of commands or executing
 a list of commands present within a specified file. Supervisors do need a
 configuration file to properly operate within the network, therefore a generic
-configuration file is left inside the sources folder.
+configuration file is left inside the DomoBus Supervisor folder.
 
 
 This project is based upon the currently available DomoBus specifications and documentation, but is however unaffiliated with the DomoBus technology.
